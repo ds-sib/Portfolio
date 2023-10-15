@@ -3,7 +3,7 @@
 There are a few examples of how I've applied basic DA skills:
 
 - SQL
-- Python ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- Python
 - Airflow
 - A/B tests
 
