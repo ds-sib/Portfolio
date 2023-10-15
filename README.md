@@ -3,9 +3,18 @@
 There are a few examples of how I've applied basic DA skills:
 
 - SQL
+  - [Dashboard sales dep](https://github.com/ds-sib/Portfolio/tree/main/Hard%20skills/SQL/Dashboard%20sales%20dep)
+  - [London Airbnb](https://github.com/ds-sib/Portfolio/tree/main/Hard%20skills/SQL/London%20Airbnb)
+  - [Education app](https://github.com/ds-sib/Portfolio/tree/main/Hard%20skills/SQL/Education%20app)
 - Python
+  - [Advertisement analysis](https://github.com/ds-sib/Portfolio/tree/main/Hard%20skills/Python/Advertisement%20analysis)
+- A/B testing
+  - [New mechanics for a dating app](https://github.com/ds-sib/Portfolio/blob/main/Hard%20skills/A%3AB%20tests/dating_app.ipynb)
 - Airflow
-- A/B tests
+  - [Game sales analysis](https://github.com/ds-sib/Portfolio/tree/main/Hard%20skills/Airflow)
+- Tableau
+  - [Employee Satisfaction Report](https://public.tableau.com/views/EmployeeSatisfactionReport/EmployeeSatisfactionReport?:language=en-US&:display_count=n&:origin=viz_share_link)
+  - [2016-2019 Profit Dashboard](https://public.tableau.com/app/profile/mikhail.konovalov/viz/KC_L2_T1_Profit_Dashboard/Dashboard)
 
 # Projects
 
