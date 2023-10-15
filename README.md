@@ -1,5 +1,3 @@
-# Main readme
-
 # Hard Skills
 
 There are a few examples of how I've applied basic DA skills:
