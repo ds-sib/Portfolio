@@ -1,16 +1,30 @@
-# Hard skills
+# [Hard skills](https://github.com/ds-sib/Portfolio/tree/main/Hard%20skills)
 
 There are a few examples of how I've applied basic DA skills.
 
+- SQL
+  - [Dashboard sales dep](https://github.com/ds-sib/Portfolio/tree/main/Hard%20skills/SQL/Dashboard%20sales%20dep)
+  - [London Airbnb](https://github.com/ds-sib/Portfolio/tree/main/Hard%20skills/SQL/London%20Airbnb)
+  - [Education app](https://github.com/ds-sib/Portfolio/tree/main/Hard%20skills/SQL/Education%20app)
+- Python
+  - [Advertisement analysis](https://github.com/ds-sib/Portfolio/tree/main/Hard%20skills/Python/Advertisement%20analysis)
+- A/B testing
+  - [New mechanics for a dating app](https://github.com/ds-sib/Portfolio/blob/main/Hard%20skills/A%3AB%20tests/dating_app.ipynb)
+- Airflow
+  - [Game sales analysis](https://github.com/ds-sib/Portfolio/tree/main/Hard%20skills/Airflow)
+- Tableau
+  - [Employee Satisfaction Report](https://public.tableau.com/views/EmployeeSatisfactionReport/EmployeeSatisfactionReport?:language=en-US&:display_count=n&:origin=viz_share_link)
+  - [2016-2019 Profit Dashboard](https://public.tableau.com/app/profile/mikhail.konovalov/viz/KC_L2_T1_Profit_Dashboard/Dashboard)
+
 ## SQL
-
-### London Airbnb
-
-A bit ad-hoc tasks with a dataframe about Airbnb listings in London using the pandahouse and visualisation libraries.
 
 ### Dashboard for online store sales department (Dashboard sales dep)
 
 Redash dashboard with KPIs that would allow to understand the current state of the business as a whole and in different countries, as well as the dynamics of the most important metrics
+
+### London Airbnb
+
+A bit ad-hoc tasks with a dataframe about Airbnb listings in London using the pandahouse and visualisation libraries.
 
 ### Education app
 
@@ -49,9 +63,3 @@ DAG of several tasks that will result in finding answers to the following questi
 3. Which platform had the most games that sold over a million copies in North America? List all if there are more than one
 4. Which publisher had the highest average sales in Japan? List all if there are more than one
 5. How many games have sold better in Europe than in Japan?
-
-## Tableau
-
-**[Employee Satisfaction Report](https://public.tableau.com/views/EmployeeSatisfactionReport/EmployeeSatisfactionReport?:language=en-US&:display_count=n&:origin=viz_share_link)**
-
-[2016-2019 Profit Dashboard](https://public.tableau.com/app/profile/mikhail.konovalov/viz/KC_L2_T1_Profit_Dashboard/Dashboard)
