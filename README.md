@@ -32,7 +32,7 @@ To check the effectiveness of the recommendation system, an AB-test was conducte
 My task is to evaluate whether the new recommendation system was able to benefit the business and the app users. To do this, select the metrics that are responsible for the quality of service and statistically compare these metrics in the two groups.
 
 ### E-learning A/B 📚
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)	![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 Developers team changed the payment mechanics on the website. During the testing of one hypothesis, the target group was offered a new payment mechanics on the site, while the control group kept the basic mechanics. It is necessary to analyze the results of the experiment and conclude whether it is worth launching the new payment mechanics on all users.
 
