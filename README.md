@@ -55,16 +55,8 @@ The current structure includes:
 - Data storage in Clickhouse
 - Data visualisation in Tableau
 
-### Competitor’s strategy analysis
-
-The project allows analyzing the direction of development of competitive companies by news sources with the help of LLM
-
-Now the project is in the process of transformation, the data will be added gradually.
 
 ### Palm oil forecast
 
 The main idea of the project is to predict the cost of palm oil using neural networks.
 
-### Consulate appointment bot
-
-Telegram bot that helps you find a consulate appointment

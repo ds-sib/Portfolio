@@ -44,6 +44,14 @@ Analyzing data of interactions with advertisements on some site. There are  the 
 5. Calculate the conversion rate from the creation of an advertising client to the first ad run within 365 days or less
 6. Determine how many unique customers ran their first ad in their first month of existence. Visualise the categories.
 
+### Metmuseum analysis
+
+Analyzing data from metmuseum with API  
+
+### Service transactions analysis
+
+Analyzing transactions of a service using different platforms  
+
 ## A/B testing
 
 ### New mechanics for a dating app
