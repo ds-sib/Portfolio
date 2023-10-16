@@ -22,7 +22,7 @@ There are a few examples of how I've applied basic DA skills:
 
 There are some projects that I've done as part of work, study, or pet projects.
 
-### Delivery app A/B
+### Delivery app A/B 📦
 
 The team implemented a smart product recommendation system in the app — it is assumed that such a system will help users work with the app more efficiently and find the necessary products better.
 
@@ -30,11 +30,11 @@ To check the effectiveness of the recommendation system, an AB-test was conducte
 
 My task is to evaluate whether the new recommendation system was able to benefit the business and the app users. To do this, select the metrics that are responsible for the quality of service and statistically compare these metrics in the two groups.
 
-### E-learning A/B
+### E-learning A/B 📚
 
 Developers team changed the payment mechanics on the website. During the testing of one hypothesis, the target group was offered a new payment mechanics on the site, while the control group kept the basic mechanics. It is necessary to analyze the results of the experiment and conclude whether it is worth launching the new payment mechanics on all users.
 
-### E-learning analysis
+### E-learning analysis 📕
 
 A number of questions answered in the analysis:
 
@@ -45,7 +45,7 @@ A number of questions answered in the analysis:
 5. Using pandas, between early 2013 and late 2014, identify the semester with the lowest course completions and the longest average course deadlines.
 6. Using python, build adapted RFM clusters of students to qualitatively assess your audience.
 
-### Macro data base
+### Macro data base 💵
 
 A project in which macroeconomic data from various sources (GDP, exchange rates, mining data, etc.) are collected and visualized using Tableau.
 
@@ -58,7 +58,7 @@ The current structure includes:
 - Data visualisation in Tableau
 
 
-### Palm oil forecast
+### Palm oil forecast 🌴
 
 The main idea of the project is to predict the cost of palm oil using neural networks.
 
