@@ -23,6 +23,7 @@ There are a few examples of how I've applied basic DA skills.
 Redash dashboard with KPIs that would allow to understand the current state of the business as a whole and in different countries, as well as the dynamics of the most important metrics
 
 ### London Airbnb
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white)
 
 A bit ad-hoc tasks with a dataframe about Airbnb listings in London using the pandahouse and visualisation libraries.
 
@@ -34,6 +35,7 @@ It is also necessary to unload basic metrics about user groups in one request.
 ## Python
 
 ### Advertisement analysis
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)	![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 Analyzing data of interactions with advertisements on some site. There are  the tasks that have been completed as part of the analysis:
 
@@ -45,16 +47,19 @@ Analyzing data of interactions with advertisements on some site. There are  the 
 6. Determine how many unique customers ran their first ad in their first month of existence. Visualise the categories.
 
 ### Metmuseum analysis
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 Analyzing data from metmuseum with API  
 
 ### Service transactions analysis
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 Analyzing transactions of a service using different platforms  
 
 ## A/B testing
 
 ### New mechanics for a dating app
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
 The application team developed a new algorithm to find the most appropriate questionnaires. To verify the algorithm's work, an AB-test was conducted. All users were divided into two groups.
 
@@ -63,6 +68,7 @@ My task was to evaluate whether it is true that the new algorithm has improved t
 ## Airflow
 
 ### Game sales analysis
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
 DAG of several tasks that will result in finding answers to the following questions:
 
