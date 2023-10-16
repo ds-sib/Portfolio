@@ -1,4 +1,4 @@
-# Hard Skills
+# Hard Skills :computer:
 
 There are a few examples of how I've applied basic DA skills:
 
@@ -8,6 +8,8 @@ There are a few examples of how I've applied basic DA skills:
   - [Education app](https://github.com/ds-sib/Portfolio/tree/main/Hard%20skills/SQL/Education%20app)
 - Python
   - [Advertisement analysis](https://github.com/ds-sib/Portfolio/tree/main/Hard%20skills/Python/Advertisement%20analysis)
+  - [Metmuseum analysis](https://github.com/ds-sib/Portfolio/tree/main/Hard%20skills/Python/Metmuseum%20analysis)
+  - [Service transactions analysis](https://github.com/ds-sib/Portfolio/tree/main/Hard%20skills/Python/Service%20transactions%20analysis)
 - A/B testing
   - [New mechanics for a dating app](https://github.com/ds-sib/Portfolio/blob/main/Hard%20skills/A%3AB%20tests/dating_app.ipynb)
 - Airflow
@@ -16,7 +18,7 @@ There are a few examples of how I've applied basic DA skills:
   - [Employee Satisfaction Report](https://public.tableau.com/views/EmployeeSatisfactionReport/EmployeeSatisfactionReport?:language=en-US&:display_count=n&:origin=viz_share_link)
   - [2016-2019 Profit Dashboard](https://public.tableau.com/app/profile/mikhail.konovalov/viz/KC_L2_T1_Profit_Dashboard/Dashboard)
 
-# Projects
+# Projects 🗂️
 
 There are some projects that I've done as part of work, study, or pet projects.
 
